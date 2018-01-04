@@ -1,2 +1,9 @@
 The point of this project is to create a weather scraper using beautiful soup
 hopefully I can fit this project into a module to display on a rgb grid on a rasperry pi
+
+For non scraping solution:
+Powered by Dark Sky
+https://darksky.net/poweredby/
+
+
+Zipcode lat/long data provided by https://gist.github.com/erichurst/7882666
